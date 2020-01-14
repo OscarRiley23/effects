@@ -1,0 +1,25 @@
+img {
+    
+    max-width: 300px;
+    height: auto;
+}
+
+#walrus-showing {
+    display: none;
+  }
+
+  p {
+    cursor: pointer;
+    
+  }
+  
+  p:hover {
+    text-decoration: underline;
+  }
+  .clickable {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  .clickable:hover {
+    text-decoration: underline;
+  }
